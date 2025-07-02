@@ -8,7 +8,7 @@
     <AppCrud />
 
   </div>
-</template>
+</template> 
 
 <script setup>
 import buscarCEP from './components/buscarCEP.vue'
